@@ -1,4 +1,6 @@
 # 15.12.2024
+елочка
+
 size(600,400)
 background(0,0,100)
 fill(0,150,0)
@@ -12,3 +14,23 @@ translate(0,40)
 triangle(265,150,335,150,300,110)
 translate(0,40)
 triangle(260,150,340,150,300,110)
+
+поровоз
+
+fill(200,0,0)
+rect(0,170,70,50)
+translate(70,0)
+fill(210,0,0)
+rect(0,170,70,50)
+translate(70,0)
+fill(230,0,0)
+rect(0,170,70,50)
+translate(70,0)
+fill(255,0,0)
+rect(0,170,70,50)
+pop()
+fill(100)
+ellipse(10,230,20,20)
+ellipse(60,230,20,20)
+rect(10,135,20,35)
+ellipse(590,230,20,20)
